@@ -1,0 +1,46 @@
+/*global*/ 
+body {
+    background-color: whitesmoke;
+    padding: 20px;
+}
+
+/*containers*/
+.container {
+    padding: 15px;
+    width: 90%;
+    margin: auto;
+}
+/*bio*/
+.bio {
+    background: rgb(255, 119, 94);
+    font-size: 20px;
+    min-height: 600px;
+}
+.bio aside {
+    width: 500px;
+    float: right;
+}
+
+/*experience*/
+.experience {
+    background: rgba(128, 128, 128, 0.635);
+    color: black;
+    font-size:20px ;
+    min-height: 600px; 
+}
+.experience aside {
+    width: 300px;
+    float: right;
+    margin-top: 30px;
+}
+
+.program {
+    background: rgba(36, 1, 36, 0.658);
+    color: whitesmoke;
+    font-size:20px;
+    font-weight: bold;
+}
+.main {
+    width: 600px;
+    float: left;
+}
